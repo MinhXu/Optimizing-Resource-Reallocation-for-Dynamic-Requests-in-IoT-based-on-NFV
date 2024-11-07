@@ -3,7 +3,12 @@ import nfv_drl_traffic_model_change as drl_alg
 import os
 import numpy as np
 import time
-# Press the green button in the gutter to run the script.
+
+#### READ_ME ######
+
+# create new folder "simple_test_input" and move the input file to it ###
+# create new folder "simple_test_output" to save the output  ####
+####################
 
 if __name__ == '__main__':
     # assign directory
